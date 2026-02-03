@@ -10,5 +10,7 @@
         <h3> 3 Level Heading Example </h3>
         <p> Paragraph are used for the bulk of your content. They automatically add a little bit of space above and below the text. </p>
         <a href="https://www.w3schools.com/css/css_icons.asp">Handbook link </a>
+        <img src="/assests/Highway.jpg" width="200px" alt="Highway by Emmanuel Munoz"/>
+        <footer></footer>
     </body>
  </html>
